@@ -1,0 +1,18 @@
+ Imagine you're out with your friend Joe and he's telling you about his dating life. A while back he landed two amazing dates, with Lily and Rosie (respectively), who are just his type. He decided he wanted to get to know each of them more before deciding on who to "cuff", so to speak, so he's continued going out with both of them. But as this has continued, the decision has become harder, not easier. He cares deeply about both Lily and Rosie. And he just loves Lily's wit and humor, but is loath to give up Rosie's curiosity and thoughtfulness. What do you tell him?
+ 
+A few months later you ask Joe how he's doing. Joe says that Rosie found out about Lily, and dumped him. And Lily felt he wasn't spending enough time with her, so she also dumped him. What do you tell him now?
+
+I tell this story because it (among other things) highlights a central paradox of freedom. Freedom is the power to decide, to be unconstrained in the things that we can decide on. But deciding is to constrain ourselves to one particular course. In other words, having freedom is to have the power to make ourselves unfree — by deciding. In fact, the root morphemes of "decide" are the Latin "-caedere", which means to cut or kill, and "de-", which changes the meaning to something like "cut off". This origin makes clear the constraining effects of making a decision: it cuts off, or even *kills*, our other options. This root isn't just an English curiosity: the roots of the word in German, "ent-" + "-scheiden", are exactly the same, even though they don't come from Latin. Joe was so set on maintaining his choices, his perceived freedom, that he was never actually able to make use of it. 
+
+Now put this against our societal background on the concept of freedom. The first thing to notice is that there is more agreement that freedom is a good thing than there is about what freedom is. In fact, freedom is one of those concepts (like happiness, fairness, justice, etc.) where the positive connotation is so central to the word that people will change their definition of it so that it retains its positive connotation. While this may seem a little sneaky, I fully endorse the practice if it is done transparently. I think these concepts that are universally agreed to be good things can be platforms on which to build shared values — they are not shared values yet, since people don't really agree on what they mean. But maybe they can become so. 
+
+That is my project in this piece. The plan is to, (1) highlight times when more freedom, conceived of in a standard way, can be detrimental. Then, (2) I will identify a new conception of freedom that appears to plug these holes. Finally, (3) I will argue that this notion of freedom doesn't lose the positive qualities of the more commonplace we are freedom we are used to, and indeed, there are strong arguments to be made that this definition is an unqualified good.
+
+To spoil the ending, this notion of freedom is something I have been calling meta-freedom: while freedom is commonly thought of as being empowered to *decide with minimal constraint*, meta-freedom is instead being empowered to decide *on the constraints*. This may evoke social contract vibes, so to speak, but let me be clear that for the purposes of this essay, I am only working at the individual level, since things get hairy when we begin to think about collectives. However, the idea does have a natural extension to collectives.
+
+I might even be able to convince people of a stronger claim, that not only is this new notion an unqualified good, it *is* the good. I am not even convinced of this myself so I will not be sorely disappointed if you only walk away convinced of the weaker claim. 
+
+
+
+
+

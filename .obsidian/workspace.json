@@ -1,0 +1,561 @@
+{
+  "main": {
+    "id": "3c94876d077ef16d",
+    "type": "split",
+    "children": [
+      {
+        "id": "13f211bf587a7a7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f22eaa66cb0b234b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Freedom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Freedom"
+            }
+          },
+          {
+            "id": "416ea6d38f425887",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Freedom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Freedom"
+            }
+          },
+          {
+            "id": "767cc14541cb6458",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "why we want freedom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "why we want freedom"
+            }
+          },
+          {
+            "id": "04085884eb5b95c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "why we want freedom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "why we want freedom"
+            }
+          },
+          {
+            "id": "0749c390eb9d8b1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "why we want freedom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "why we want freedom"
+            }
+          },
+          {
+            "id": "db9f2de5e5f13e12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "why we want freedom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "why we want freedom"
+            }
+          },
+          {
+            "id": "1906779650b06384",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "why we want freedom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "why we want freedom"
+            }
+          },
+          {
+            "id": "9d57c576a82eb8f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readable/why inequality ruins markets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "why inequality ruins markets"
+            }
+          },
+          {
+            "id": "ace28382dc79f694",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readable/why inequality ruins markets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "why inequality ruins markets"
+            }
+          },
+          {
+            "id": "e542b739600fedc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "why we want freedom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "why we want freedom"
+            }
+          },
+          {
+            "id": "2a633216af5da9a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "why we want freedom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "why we want freedom"
+            }
+          },
+          {
+            "id": "7b456b681199d9a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "why we want freedom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "why we want freedom"
+            }
+          },
+          {
+            "id": "be682f6a8b0d02e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the red kool aid and the blue kool aid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the red kool aid and the blue kool aid"
+            }
+          },
+          {
+            "id": "fd30947349a16bc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "why we want freedom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "why we want freedom"
+            }
+          },
+          {
+            "id": "b687fc06e41eed9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "snips.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "snips"
+            }
+          },
+          {
+            "id": "98c1556cfc58b7d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meta-freedom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "meta-freedom"
+            }
+          },
+          {
+            "id": "71cc30ea0bb8c0df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "why we want freedom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "why we want freedom"
+            }
+          },
+          {
+            "id": "d525c9c2240efdcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "why we want freedom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "why we want freedom"
+            }
+          },
+          {
+            "id": "59a9aedc84aebbef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "what is the point of democracy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "what is the point of democracy"
+            }
+          },
+          {
+            "id": "5138c8ad74cfb3c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "why do we have two parties that suck.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "why do we have two parties that suck"
+            }
+          },
+          {
+            "id": "e96db15f76429652",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "why do we have two parties that suck.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "why do we have two parties that suck"
+            }
+          },
+          {
+            "id": "6c9a4b87a6a95083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "why we want freedom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "why we want freedom"
+            }
+          },
+          {
+            "id": "95dd8c12069b7094",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Decaying ownership.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Decaying ownership"
+            }
+          },
+          {
+            "id": "551a84c59112f1ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unreadable/why we want freedom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "why we want freedom"
+            }
+          },
+          {
+            "id": "f10320683503c49b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unreadable/On luigi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "On luigi"
+            }
+          },
+          {
+            "id": "0a8789bdcd19512f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readable/why inequality ruins markets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "why inequality ruins markets"
+            }
+          },
+          {
+            "id": "80227c246898f8a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readable/why inequality ruins markets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "why inequality ruins markets"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28647c43a6654388",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c8d710ff8621398",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb6a861b81ee14f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "510b2bbea7c40d4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1744dac54e5d8ea1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "84e495a44beeed99",
+    "type": "split",
+    "children": [
+      {
+        "id": "330e780e9c6ba9b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "435cf8e26df5ce39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "readable/why inequality ruins markets.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for why inequality ruins markets"
+            }
+          },
+          {
+            "id": "08c5f37d129cc53b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "academia.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from academia"
+            }
+          },
+          {
+            "id": "66f620a400e540bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ceb2bae6dcd2f026",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "academia.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of academia"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false
+    }
+  },
+  "active": "ace28382dc79f694",
+  "lastOpenFiles": [
+    "index.md",
+    "readable/why inequality ruins markets.md",
+    "unreadable/making property ownership temporary.md",
+    "unreadable/why we want freedom.md",
+    "unreadable/happiness is not a real thing.md",
+    "unreadable/what is the point of democracy.md",
+    "unreadable/times that freedom is (individually) bad.md",
+    "unreadable/what an alternative could look like.md",
+    "unreadable/what is freedom.md",
+    "unreadable/what are believies.md",
+    "unreadable/why do we have two parties that suck.md",
+    "unreadable/why capitalism doesn't give us what we want.md",
+    "unreadable/future things to write.md",
+    "unreadable/academia.md",
+    "unreadable",
+    "unreadable/On luigi.md",
+    "unreadable/decision as happiness.md",
+    "unreadable/cooperation research.md",
+    "unreadable/choice-questioning malaise.md",
+    "unreadable/building a notion of freedom.md",
+    "unreadable/snips.md",
+    "unreadable/the red kool aid and the blue kool aid.md",
+    "unreadable/Freedom.md",
+    "readable",
+    "Excalidraw/Drawing 2024-11-07 20.51.11.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-07 19.26.04.excalidraw.md",
+    "Excalidraw",
+    "unreadable/meta-freedom.md",
+    "unreadable/freedom pieces.md"
+  ]
+}
