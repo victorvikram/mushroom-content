@@ -1,5 +1,2 @@
-footnote test[^1]
+[[How to contribute|How to contribute]]
 
-[^1]:Is this going to work?
-
-hello hello

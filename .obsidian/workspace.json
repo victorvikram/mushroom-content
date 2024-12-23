@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Why inequality ruins markets.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why inequality ruins markets"
+              "title": "index"
             }
           },
           {
@@ -472,7 +472,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why inequality ruins markets.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -482,7 +482,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Why inequality ruins markets"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -543,8 +543,9 @@
   },
   "active": "5ea65ec0f0f92503",
   "lastOpenFiles": [
-    "index.md",
+    "How to contribute.md",
     "Why inequality ruins markets.md",
+    "index.md",
     "file.md",
     "folder",
     "private/Untitled.md",
