@@ -1,10 +1,10 @@
-If a hermit dies in the forest and no one ever hears about it, is the world better off? 
+If a sad hermit dies in the forest and no one ever hears about it, is the world better off? 
 
 To be precise, let us say that this hermit leads a life of suffering, and you could decide to painlessly kill him. Would do it? Now what if I said that this hermit doesn’t exist, but you could conjure him into existence. Would you do that?
 
 It seems that from a consequentialist point of view, these acts should be equivalent. But most people would intuit that they are not. Even if you answered that you *would* kill him, could you imagine a level of suffering where you *would* spare him but you *wouldn’t* conjure him into existence? 
 
-I suspect that for most people, there would be a certain level of suffering at which they wouldn’t kill the hermit, but would still refrain from conjuring the hermit into existence. These people can’t be consequentialists, because the end result of both acts is the same. 
+I suspect that for most people, there would be a certain level of suffering at which they would spare the hermit, but would still refrain from conjuring him into existence. These people can’t be consequentialists, because the end result of both acts is the same. 
 
 A consequentialist might say that our intuition fails us here because the scenario is unrealistic. It is rare to find a case where killing someone and refraining from bringing them into existence have the same end result. If someone is already alive, people know them. People love them. Killing them them would cause suffering to all those people, even if it were a painless death. Not to mention, killing someone would cause anguish to whoever ends up doing the killing. On the other hand, no one is in love with the twinkle in your eye that may one day become a person if you so decide.
 
@@ -25,6 +25,8 @@ This becomes relevant whenever we try to judge alternative futures with differen
 This has tremendous practical implications. For instance, should we invest in technologies that would enable us to be an interplanetary society? Or should we just have fewer babies? The consequentialist might be inclined to say yes to the first and no to the second, in which case he should judge Elon Musk as the paragon of virtue (at least in these two respects).
 
 The problem comes up in other contexts, too. You might think, for instance, that the world would be better if everyone were a vegetarian. But in such a world, the population of domesticated chickens would go from 26 billion to approximately zero. Now, you might think that the chickens alive today are living in such squalor that they are below the zero point, and a world without them would be better. Fair enough. But certainly, there should be some level of humaneness where the chickens would be better off alive. Is the ideal world the one in which there is enough meat consumption to maintain such a humanely raised population of chickens?
+
+*Contributors: Victor Odouard*
 
 [^0]:Well, technically, there is one repercussion: the hypothetical killer remembers killing the hermit, and may suffer remorse. But first of all, if the killer really did improve the world, why should they suffer remorse? A true consequentialist should not suffer this way if they killed the hermit. And second, it is possible to construct the example where the killing causes no suffering, because the killer is, for instance, a sociopath, or an unfeeling AI system.
 [^1]:This of course would require that the new people you add don’t affect the lives of the existing people. But this, of course, can be done in principle.

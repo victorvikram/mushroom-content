@@ -551,13 +551,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "a39c0c4675148d13",
   "lastOpenFiles": [
-    "private/Various critiques of consequentialism.md",
+    "Why inequality ruins markets.md",
     "When are you better off dead.md",
+    "private/Various critiques of consequentialism.md",
     "private/times that freedom is (individually) bad.md",
     "private/thoughts on grounding.md",
     "private/what are believies.md",
@@ -571,7 +573,6 @@
     "private/making property ownership temporary.md",
     "private/choice-questioning malaise.md",
     "private/building a notion of freedom.md",
-    "Why inequality ruins markets.md",
     "index.md",
     "How to contribute to this.md",
     "README.md",
