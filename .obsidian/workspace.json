@@ -125,12 +125,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readable/why inequality ruins markets.md",
+                "file": "private/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "why inequality ruins markets"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "5ea65ec0f0f92503",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Why inequality ruins markets.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Why inequality ruins markets"
             }
           },
           {
@@ -386,7 +400,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -458,7 +472,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readable/why inequality ruins markets.md",
+                "file": "Why inequality ruins markets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -468,7 +482,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for why inequality ruins markets"
+              "title": "Backlinks for Why inequality ruins markets"
             }
           },
           {
@@ -523,39 +537,40 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "graph:Open graph view": false
+      "graph:Open graph view": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ace28382dc79f694",
+  "active": "5ea65ec0f0f92503",
   "lastOpenFiles": [
     "index.md",
-    "readable/why inequality ruins markets.md",
-    "unreadable/making property ownership temporary.md",
-    "unreadable/why we want freedom.md",
-    "unreadable/happiness is not a real thing.md",
-    "unreadable/what is the point of democracy.md",
-    "unreadable/times that freedom is (individually) bad.md",
-    "unreadable/what an alternative could look like.md",
-    "unreadable/what is freedom.md",
-    "unreadable/what are believies.md",
-    "unreadable/why do we have two parties that suck.md",
-    "unreadable/why capitalism doesn't give us what we want.md",
-    "unreadable/future things to write.md",
-    "unreadable/academia.md",
-    "unreadable",
-    "unreadable/On luigi.md",
-    "unreadable/decision as happiness.md",
-    "unreadable/cooperation research.md",
-    "unreadable/choice-questioning malaise.md",
-    "unreadable/building a notion of freedom.md",
-    "unreadable/snips.md",
-    "unreadable/the red kool aid and the blue kool aid.md",
-    "unreadable/Freedom.md",
+    "Why inequality ruins markets.md",
+    "file.md",
+    "folder",
+    "private/Untitled.md",
+    "blah 2.md",
+    "blah.md",
+    "blah 4.md",
+    "blah 3.md",
+    "private/thoughts on grounding.md",
+    "private/On luigi.md",
+    "private/making property ownership temporary.md",
+    "private/why we want freedom.md",
+    "private/happiness is not a real thing.md",
+    "private/what is the point of democracy.md",
+    "private/times that freedom is (individually) bad.md",
+    "private/what an alternative could look like.md",
+    "private/what is freedom.md",
+    "private/what are believies.md",
+    "private/why do we have two parties that suck.md",
+    "private/why capitalism doesn't give us what we want.md",
+    "private/future things to write.md",
+    "private/academia.md",
+    "private",
+    "private/decision as happiness.md",
+    "private/cooperation research.md",
+    "private/choice-questioning malaise.md",
     "readable",
-    "Excalidraw/Drawing 2024-11-07 20.51.11.excalidraw.md",
-    "Excalidraw/Drawing 2024-11-07 19.26.04.excalidraw.md",
-    "Excalidraw",
-    "unreadable/meta-freedom.md",
-    "unreadable/freedom pieces.md"
+    "Excalidraw"
   ]
 }

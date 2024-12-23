@@ -86,7 +86,9 @@ Any system has ground rules. Even unfettered capitalism has ground rules: in par
 
 Of course, even without inequality, problems remain. There are the classic problems of markets, like their failure to provision public goods, and their tendency to create negative externalities. There are also realms in which markets are simply not the right solution, because it is impossible to maintain a competitive marketplace (schools and healthcare might be examples of this). 
 
-Still, reducing inequality will make a huge difference. And it is reassuring to know that this can be done without creating another kind of inequality, the inequality of political power, that comes with the centralization of state power.
+Still, reducing inequality will make a huge difference. And it is reassuring to know that this can be done without creating another kind of inequality, the inequality of political power, that accompanies the centralization of state authority.
+
+*Contributors: Victor Odouard*
 
 [^axis]:Would be nice to do a piece on this, the axis of tyranny and why it might exist. Is it just two different ways of maintaining power?
 [^unique]:This is not to say that markets are the *only* good means of collectively organizing
