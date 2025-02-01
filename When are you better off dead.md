@@ -1,4 +1,4 @@
-If a sad hermit dies in the forest and no one ever hears about it, is the world better off? 
+If a forlorn hermit dies in the forest and no one ever hears about it, is the world better off? 
 
 To be precise, let us say that this hermit leads a life of suffering, and you could decide to painlessly kill him. Would do it? Now what if I said that this hermit doesn’t exist, but you could conjure him into existence. Would you do that?
 
@@ -7,6 +7,8 @@ It seems that from a consequentialist point of view, these acts should be equiva
 I suspect that for most people, there would be a certain level of suffering at which they would spare the hermit, but would still refrain from conjuring him into existence. These people can’t be consequentialists, because the end result of both acts is the same. 
 
 A consequentialist might say that our intuition fails us here because the scenario is unrealistic. It is rare to find a case where killing someone and refraining from bringing them into existence have the same end result. If someone is already alive, people know them. People love them. Killing them them would cause suffering to all those people, even if it were a painless death. Not to mention, killing someone would cause anguish to whoever ends up doing the killing. On the other hand, no one is in love with the twinkle in your eye that may one day become a person if you so decide.
+
+%% issues coming up for miles — demonstrated pref consequentialist would just kill him if he was suicidal. also killing him would cause himself pain %%
 
 But that is why I give the example about the hermit who can be killed or conjured without any further repercussions[^0]. If in that case you see no asymmetry, you are a dyed-in-the-wool consequentialist, and this article is for you (if you do see an asymmetry, you are already a non-consequentialist, but feel free to read on for fun).
 

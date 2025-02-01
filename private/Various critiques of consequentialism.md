@@ -35,15 +35,19 @@ still, it is not clear what the level
 ### Aggregation
 (space and time)
 ### Death and birth
-
-
-
-
-
-
 Perhaps one answer is that life is valuable until the being becomes suicidal. But this poses problems. First, it would mean that we shouldn’t prevent someone from committing suicide, as it would make the world better off. And second, everyone probably has a different threshold for what it would take them to commit suicide. 
 ### Meaning
-Why do we have ethics? Why do we need to say that some things are good, and some things are bad? In a world without living things, it is pretty clear that there is no room for ethics: things just happen; they are neither good nor bad. In a world with humans, most people would intuit that ethics . Where in the interim did they come into being?
+Why do we have ethics? Why do we need to say that some things are good, and some things are bad? In a world without living things, it is pretty clear that there is no room for ethics: things just happen; they are neither good nor bad.
+
+But morality doesn’t spring onto the scene at the same time that life does. Surely, in a world of bacteria, it remains the case that things just happen. 
+
+Levels of purpose: autonomous purpose, where information builds on itself. things survive 
+
+is purpose the root of morality? 
+
+is it just that we need it? and how is this different from pain and pleasure
+
+In a world with humans, most people would intuit that ethics . Where in the interim did they come into being?
 
 One possible answer is that where there is suffering (and its mirror, well-being), there is ethics.
 
@@ -56,5 +60,9 @@ Regarding the first question, I think most people would say that we should kill 
 Do you need to be able to 
 
 (of course, you need living things to reason about ethics, but imagine a bunch )
+
+## Agency
+consequentialism seems to steal agency 
+###
 
 ### Concluding
